@@ -1,0 +1,15 @@
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\bin\Debug\net6.0\Zad 2.exe
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\bin\Debug\net6.0\Zad 2.deps.json
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\bin\Debug\net6.0\Zad 2.runtimeconfig.json
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\bin\Debug\net6.0\Zad 2.dll
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\bin\Debug\net6.0\Zad 2.pdb
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\obj\Debug\net6.0\Zad 2.csproj.AssemblyReference.cache
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\obj\Debug\net6.0\Zad 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\obj\Debug\net6.0\Zad 2.AssemblyInfoInputs.cache
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\obj\Debug\net6.0\Zad 2.AssemblyInfo.cs
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\obj\Debug\net6.0\Zad 2.csproj.CoreCompileInputs.cache
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\obj\Debug\net6.0\Zad 2.dll
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\obj\Debug\net6.0\refint\Zad 2.dll
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\obj\Debug\net6.0\Zad 2.pdb
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\obj\Debug\net6.0\Zad 2.genruntimeconfig.cache
+C:\Users\Bulinki\OneDrive\Pulpit\Studia\Podstawy programowania (ćwiczenia)\Zad 2\Zad 2\obj\Debug\net6.0\ref\Zad 2.dll
